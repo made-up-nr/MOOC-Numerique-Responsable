@@ -1,85 +1,118 @@
-# MOOC-Numerique-Responsable
-Référencement des MOOCs et supports de cours (gratuits) pour un numérique plus responsable
+# MOOC Numérique Responsable
+
+Référencement des MOOCs et supports de cours (gratuits) pour un numérique plus responsable.
+
+## Sommaire
+
+- [Numérique Responsable](#numérique-responsable)
+- [Enjeux Environnementaux](#enjeux-environnementaux)
+- [Développement Socialement Durable](#développement-socialement-durable)
+- [Écologie Politique](#écologie-politique)
+- [Ingénierie Écologique](#ingénierie-écologique)
 
 ## Numérique Responsable
+
 ### INR (Institut du Numérique Responsable) - Académie NR
-Face à l’urgence climatique et l’empreinte environnementale conséquente du numérique, et l’impératif de repenser le numérique pour qu’il soit porteur de valeurs plus inclusives et éthiques pour les femmes et les hommes de notre société, l’INR et ses partenaires proposent un MOOC sur le numérique responsable pour permettre à toutes et tous de s’informer et se former.
 
-#### Sensibilisation au Numérique Responsable de l'INR 
-https://www.academie-nr.org/sensibilisation/#/
+Face à l'urgence climatique et l'empreinte environnementale conséquente du numérique, et l'impératif de repenser le numérique pour qu'il soit porteur de valeurs plus inclusives et éthiques pour les femmes et les hommes de notre société, l'INR et ses partenaires proposent un MOOC sur le numérique responsable pour permettre à toutes et tous de s'informer et se former.
 
-#### Cours complet
-https://www.academie-nr.org/#mooc-nr
+- [Sensibilisation au Numérique Responsable de l'INR](https://www.academie-nr.org/sensibilisation/#/) - première approche rapide et accessible du numérique responsable (30 min, tout public)
+- [Cours complet](https://www.academie-nr.org/#mooc-nr) - formation complète en 11 modules, impacts environnementaux, sociaux, économiques et géopolitiques, avec certificat (4h30)
+- [Conception responsable d'un service numérique](https://www.academie-nr.org/mooc-conception/fr/index.html) - 10 modules vidéo pour acquérir les premières clés de la conception responsable : démarche, outils, références et mise en pratique (~1h30)
+- [IA Responsable](https://www.academie-nr.org/mooc-ia/fr/index.html) - enjeux éthiques, environnementaux et de gouvernance liés à l'intelligence artificielle, avec attestation (~1h)
 
-### INRIA - Impacts Numériques	
-L'inria nous propose une série de fiches pédagogique pour compres quels sont les impacts générés par le numérique
-https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/index.html
+### INRIA - Impacts Numériques
 
-###  Metropole Rouen - Agir pour un numérique responsable
-https://metropoleposition.fr/agir-pour-un-numerique-responsable/
- 	
+L'Inria propose une série de fiches pédagogiques pour comprendre quels sont les impacts générés par le numérique.
+
+- [MOOC Impacts Numériques](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/index.html)
+
+### Métropole Rouen - Agir pour un numérique responsable
+
+- [Agir pour un numérique responsable](https://metropoleposition.fr/agir-pour-un-numerique-responsable/)
+
 ## Enjeux Environnementaux
 
-### Les ODD (Objectifs de Développement Durable) c’est pas compliqué	
-Concilier engagements et performance économique, c’est possible, c’est même une source d’opportunités et c’est une nécessité pour que votre performance soit durable. Découvrez de façon simple et ludique grace à 7 petites vidéos les liens forts existants entre vos enjeux business et les ODD.
-https://www.bpifrance-universite.fr/formations/responsabilite-societale-des-entreprises/les-odd-cest-pas-complique-tpe-pme-osez-la-rse-pour-une-croissance-durable/
+### Les ODD (Objectifs de Développement Durable) c'est pas compliqué
 
-### Causes et enjeux du changement climatique	
-Le MOOC "Causes et enjeux du changement climatique" vous propose de revenir, en introduction, sur cette négociation internationale, ses objectifs, ses acteurs et ses mécanismes. Ce cours vous propose d'explorer le climat et ses évolutions ; la transition bas carbone ; l'adaptation des sociétés au changement climatique.
-https://www.my-mooc.com/fr/mooc/causes-et-enjeux-du-changement-climatique/
+Concilier engagements et performance économique, c'est possible, c'est même une source d'opportunités et c'est une nécessité pour que votre performance soit durable. Découvrez de façon simple et ludique grâce à 7 petites vidéos les liens forts existants entre vos enjeux business et les ODD.
 
-### Développement durable: enjeux et trajectoires	
+- [Les ODD c'est pas compliqué](https://www.bpifrance-universite.fr/formations/responsabilite-societale-des-entreprises/les-odd-cest-pas-complique-tpe-pme-osez-la-rse-pour-une-croissance-durable/)
+
+### Causes et enjeux du changement climatique
+
+Ce MOOC propose de revenir, en introduction, sur la négociation internationale sur le climat, ses objectifs, ses acteurs et ses mécanismes. Il explore le climat et ses évolutions, la transition bas carbone, et l'adaptation des sociétés au changement climatique.
+
+- [Causes et enjeux du changement climatique](https://www.my-mooc.com/fr/mooc/causes-et-enjeux-du-changement-climatique/)
+
+### Développement durable : enjeux et trajectoires
+
 Ce MOOC propose une réflexion sur le développement durable et la prise de conscience de ses enjeux sous des perspectives historique, environnementale et socio-économique.
-https://www.ulaval.ca/etudes/mooc-formation-en-ligne-ouverte-a-tous/developpement-durable-enjeux-et-trajectoires
 
-### Objectifs de Développement Durable	
-Ce MOOC à vocation à vous informer quant aux 17 objectifs du développement durable et à vous expliquer ce qu'ils sont. Ce MOOC a également été construit pour vous donner envie de vous engager, voire de poursuivre votre engagement.
-https://www.my-mooc.com/fr/mooc/objectifs-de-developpement-durable/
+- [Développement durable : enjeux et trajectoires](https://www.ulaval.ca/etudes/mooc-formation-en-ligne-ouverte-a-tous/developpement-durable-enjeux-et-trajectoires)
 
-### Transition Energétique et Ecologique
-Face au changement climatique et à ses conséquences, il est nécessaire de se mobiliser. Entrepreneurs, n’attendez pas qu’il soit trop tard pour profiter du levier de compétitivité qu’est la TEE.
-https://www.bpifrance-universite.fr/formations/responsabilite-societale-des-entreprises/e-parcours-transition-energetique-et-ecologique/
+### Objectifs de Développement Durable
 
-## Developpement Socialement Durable	
-Ce MOOC transdisciplinaire vous propose d’investiguer ensemble les interactions entre les sphères économique, écologique et sociale ainsi que leurs effets sur les situations de pauvreté, de vulnérabilité et d’exclusion.
-https://www.my-mooc.com/fr/mooc/developpement-socialement-durable/
+Ce MOOC a vocation à vous informer sur les 17 objectifs du développement durable et à vous expliquer ce qu'ils sont. Il a également été construit pour vous donner envie de vous engager, voire de poursuivre votre engagement.
 
-## Ecologie Politique 
-### Défis de la durabilité pour les démocraties	
-Cours proposé par l'Université de Lausane présenté par Dominique Bourg et Grabriel Salerno
-https://fr.coursera.org/learn/ecologie-politique
+- [Objectifs de Développement Durable](https://www.my-mooc.com/fr/mooc/objectifs-de-developpement-durable/)
 
-### Humanités numériques responsables	Us et abus d’internet
-Enjeux sociaux et psychologiques des Pratiques numériquesLe numérique touche désormais l’ensemble de notre vie et bouleverse nos habitudes, nos savoir-faire (lire, écrire, raconter, travailler, jouer), interroge nos certitudes et par là-même l’ensemble de nos paradigmes ...
-http://www.sup-numerique.gouv.fr/pid33288/moteur-des-ressources-pedagogiques.html?ressourceUrl=http%3A%2F%2Fwww.sup-numerique.gouv.fr%2Fressources-pedagogiques%2Fnotice%2Fview%2Foai%25253Acanal-u.fr%25253A19273?xtmc=numerique_responsable&xtnp=1&xtcr=undefined
+## Développement Socialement Durable
 
-## Ingénieurie Ecologique
+Ce MOOC transdisciplinaire vous propose d'investiguer ensemble les interactions entre les sphères économique, écologique et sociale ainsi que leurs effets sur les situations de pauvreté, de vulnérabilité et d'exclusion.
+
+- [Développement Socialement Durable](https://www.my-mooc.com/fr/mooc/developpement-socialement-durable/)
+
+## Écologie Politique
+
+### Défis de la durabilité pour les démocraties
+
+Cours proposé par l'Université de Lausanne, présenté par Dominique Bourg et Gabriel Salerno.
+
+- [Défis de la durabilité pour les démocraties](https://fr.coursera.org/learn/ecologie-politique)
+
+## Ingénierie Écologique
 
 ### Appliquez les principes du Green IT dans votre entreprise
-https://openclassrooms.com/fr/courses/6227476-appliquez-les-principes-du-green-it-dans-votre-entreprise
 
-### Eco-Concevoir Demain	
-Ce MOOC d’introduction à l’éco-conception vous propose de découvrir comment réduire les impacts sur l’environnement des produits (biens ou services) tout en conservant leurs qualités et leurs performances intrinsèques.
-https://www.my-mooc.com/fr/mooc/eco-concevoir-demain/
+- [Green IT en entreprise](https://openclassrooms.com/fr/courses/6227476-appliquez-les-principes-du-green-it-dans-votre-entreprise)
 
-### Eco-concevoir vos produits et services pour entrer dans l’ère de l’économie circulaire !
-https://www.bpifrance-universite.fr/formations/responsabilite-societale-des-entreprises/eco-concevoir-vos-produits-et-services-pour-entrer-dans-lere-de-leconomie-circulaire/
+### Éco-Concevoir Demain
 
-### Ingénieurie Ecologique
-Ce MOOC vous propose de découvrir les fondements, les enjeux, les outils, les acteurs ainsi que les conditions de mise en œuvre de l'ingénieurie écologique
-https://www.my-mooc.com/fr/mooc/Ing%C3%A9nierie-%C3%A9cologique/
+Ce MOOC d'introduction à l'éco-conception vous propose de découvrir comment réduire les impacts sur l'environnement des produits (biens ou services) tout en conservant leurs qualités et leurs performances intrinsèques.
 
-L’atelier RGPD	Une nouvelle formation en ligne ouverte à tous (MOOC) intitulée « L’atelier RGPD », propose aux professionnels de découvrir, ou mieux, d'appréhender le RGPD. Il permet ainsi d’initier une mise en conformité de leur organisme et d’aider à la sensibilisation des opérationnels.
-https://www.cnil.fr/fr/la-cnil-lance-sa-formation-en-ligne-sur-le-rgpd-ouverte-tous
+- [Éco-Concevoir Demain](https://www.my-mooc.com/fr/mooc/eco-concevoir-demain/)
 
-### Management Responsable	
-Ce MOOC propose une vision du management responsable qui peut être pertinente autant dans la gestion au quotidien des entreprises que dans les prises de décision qui ont un impact pour l’avenir de la Terre. Un management responsable compose avec la triple contrainte sociale, économique et environnementale du développement durable. Son déploiement n’est possible que par la transformation des personnes, des entreprises et de la société dans son ensemble. Il implique de repenser nos habitudes et nos préjugés, ainsi que de modifier nos valeurs.
-https://www.ulaval.ca/etudes/mooc-formation-en-ligne-ouverte-a-tous/le-management-responsable
+### Éco-concevoir vos produits et services pour entrer dans l'ère de l'économie circulaire
 
-### Master Classe Green IT	
-Masterclasse proposées par la Société Générale sur ses approches du GreenIT
-https://careers.societegenerale.com/green-it-program
+- [Éco-concevoir vos produits et services](https://www.bpifrance-universite.fr/formations/responsabilite-societale-des-entreprises/eco-concevoir-vos-produits-et-services-pour-entrer-dans-lere-de-leconomie-circulaire/)
 
-### Principes de l’ingénierie logicielle durable	
-Les principes de l’ingénierie logicielle durable dans la liste des cours proposés par Microsoft
-https://docs.microsoft.com/fr-fr/learn/modules/sustainable-software-engineering-overview/
+### Ingénierie Écologique
+
+Ce MOOC vous propose de découvrir les fondements, les enjeux, les outils, les acteurs ainsi que les conditions de mise en œuvre de l'ingénierie écologique.
+
+- [Ingénierie Écologique](https://www.my-mooc.com/fr/mooc/Ing%C3%A9nierie-%C3%A9cologique/)
+
+### L'atelier RGPD
+
+Une nouvelle formation en ligne ouverte à tous (MOOC) intitulée « L'atelier RGPD » propose aux professionnels de découvrir, ou mieux, d'appréhender le RGPD. Elle permet d'initier une mise en conformité de leur organisme et d'aider à la sensibilisation des opérationnels.
+
+- [L'atelier RGPD](https://www.cnil.fr/fr/la-cnil-lance-sa-formation-en-ligne-sur-le-rgpd-ouverte-tous)
+
+### Management Responsable
+
+Ce MOOC propose une vision du management responsable pertinente autant dans la gestion au quotidien des entreprises que dans les prises de décision qui ont un impact pour l'avenir de la Terre. Un management responsable compose avec la triple contrainte sociale, économique et environnementale du développement durable. Son déploiement n'est possible que par la transformation des personnes, des entreprises et de la société dans son ensemble. Il implique de repenser nos habitudes et nos préjugés, ainsi que de modifier nos valeurs.
+
+- [Management Responsable](https://www.ulaval.ca/etudes/mooc-formation-en-ligne-ouverte-a-tous/le-management-responsable)
+
+### Master Classe Green IT
+
+Masterclasse proposée par la Société Générale sur ses approches du Green IT.
+
+- [Master Classe Green IT](https://careers.societegenerale.com/green-it-program)
+
+### Principes de l'ingénierie logicielle durable
+
+Les principes de l'ingénierie logicielle durable dans la liste des cours proposés par Microsoft.
+
+- [Principes de l'ingénierie logicielle durable](https://docs.microsoft.com/fr-fr/learn/modules/sustainable-software-engineering-overview/)
